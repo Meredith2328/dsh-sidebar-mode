@@ -1,0 +1,4 @@
+# dsh-sidebar-mode bundle: 向组合挂一个 Node half（空 apply，行为全在 client）
+- insert:
+    - id: dsh-sidebar-mode
+      name: 'dsh-sidebar-mode'
