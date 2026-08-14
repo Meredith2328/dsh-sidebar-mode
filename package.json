@@ -1,7 +1,7 @@
 {
   "name": "dsh-sidebar-mode",
   "description": "把默认的四种模式切换塞进「新会话」按钮里，新会话创建更方便（与设置里的 Agent 预设双向同步）。",
-  "version": "0.2.3",
+  "version": "0.2.4",
   "private": true,
   "type": "module",
   "main": "lib/index.mjs",
