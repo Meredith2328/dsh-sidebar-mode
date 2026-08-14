@@ -1,5 +1,7 @@
 # dsh-sidebar-mode
 
+![示意图：新会话按钮内嵌预设标签，点击弹出预设菜单](assets/screenshot.png)
+
 DSH（DeepSeek Harness）侧边栏「新会话」预设快速切换插件。
 
 把新会话默认 Agent 预设的指示**嵌进侧边栏「新会话」按钮内部最左侧**（浅浅的小字，
