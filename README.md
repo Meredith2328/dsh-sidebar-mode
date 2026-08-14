@@ -23,7 +23,7 @@
 
 ```bash
 cd "$(dsh home)/profiles/web"    # Windows: C:\Users\<you>\.dsh\profiles\web
-pnpm add "github:<owner>/dsh-sidebar-mode"
+pnpm add "github:Meredith2328/dsh-sidebar-mode"
 ```
 
 并把 `dsh-sidebar-mode` 加入 `package.json` 的 `dsh.profile.bundles` 列表，
