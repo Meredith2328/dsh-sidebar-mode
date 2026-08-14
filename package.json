@@ -1,6 +1,6 @@
 {
   "name": "dsh-sidebar-mode",
-  "description": "新会话默认 Agent 预设快速切换——嵌入侧边栏「新会话」按钮内部最左侧，点击弹出预设菜单，与设置里的「Agent 预设」双向同步。",
+  "description": "把默认的四种模式切换塞进「新会话」按钮里，新会话创建更方便（与设置里的 Agent 预设双向同步）。",
   "version": "0.2.1",
   "private": true,
   "type": "module",
